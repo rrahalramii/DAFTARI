@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/.gradle": true,
+    "**/build": true
+  }
+}
